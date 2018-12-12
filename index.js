@@ -52,7 +52,6 @@ export default class SliderVolumeController extends Component {
   };
 
   static defaultProps = {
-    thumbSize: { width: 23, height: 23 },
     showsRouteButton: true
   };
 
